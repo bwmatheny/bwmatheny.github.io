@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Billboard Weekly Top 100"
-date:       2020-07-03 00:36:08 +0000
+date:       2020-07-02 20:36:09 -0400
 permalink:  billboard_weekly_top_100
 ---
 
